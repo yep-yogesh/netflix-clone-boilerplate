@@ -2,7 +2,7 @@
 # spotify-clone-boilerplate
 ## Here is the expected output
 
-![]()
+![](https://github.com/Kalvium-Program/netflix-clone-boilerplate/blob/main/assets/Netflix%20Web%20UI.png?raw=true)
 
 Fork this repo and get started with the cloning project.
 
